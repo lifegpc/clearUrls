@@ -27,6 +27,10 @@
         "nicovideo.jp": {
             "urlPattern": "^https?:\\/\\/public\\.api\\.nicovideo\\.jp\\\/v1\\\/(user\\\/actions\\\/video\\\/watch-events\\.json|recommend\\\/log\\\/)",
             "completeProvider": true
+        },
+        "aliyuncs.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*log\\.aliyuncs\\.com\\/",
+            "completeProvider": true
         }
     }
 }
