@@ -6,9 +6,12 @@ Hash Url: [`https://cs.kanahanazawa.com/clearUrl?hash`](https://cs.kanahanazawa.
 ## Available GET parameters
 - `t`: Specify the [type](#rules-types) of rules. If this is empty, use all types. Can use `,` to separate two types.
 - `hash`: Return hash value rather than rules.
+- `noda`: Don't include origin rules.
 
 # Rules Types
 ## log
 This type of rules block logging requests in web page. Logging requests always contains lots of data, which be used to track. Blocking these requests will not have any side effects.
 ## track
 This type of rules remove unnecessary get parameter which used to track user.
+## redirect
+This type of rules can skip unnecessary redirect page.
