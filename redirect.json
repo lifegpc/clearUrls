@@ -1,0 +1,10 @@
+{
+    "providers": {
+        "zhihu.com": {
+            "urlPattern": "^https?:\\/\\/link\\.zhihu\\.com\\/",
+            "redirections": [
+                "^https?:\\/\\/link\\.zhihu\\.com\\/\\?target=([^&]+)"
+            ]
+        }
+    }
+}
