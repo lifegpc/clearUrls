@@ -20,6 +20,10 @@
         "myaccount.google.com": {
             "urlPattern": "^https?:\\/\\/myaccount\\.google\\.com",
             "rules": ["utm_source", "utm_medium"]
+        },
+        "yahoo.co.jp": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?yahoo.co.jp",
+            "rules": ["sc_e", "utm_source", "utm_medium", "utm_campaign"]
         }
     }
 }
