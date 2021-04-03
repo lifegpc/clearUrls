@@ -15,6 +15,14 @@
         "hm.baidu.com": {
             "urlPattern": "^https?:\\/\\/hm\\.baidu\\.com\\/",
             "completeProvider": true
+        },
+        "kuaishou.com": {
+            "urlPattern": "^https?:\\/\\/csplog\\.kuaishou\\.com\\/",
+            "completeProvider": true
+        },
+        "kuaishou.com_1": {
+            "urlPattern": "https?:\\/\\/log-sdk\\.ksapisrv\\.com\\/",
+            "completeProvider": true
         }
     }
 }
