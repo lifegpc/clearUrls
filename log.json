@@ -35,6 +35,10 @@
         "jianshu.com": {
             "urlPattern": "^https?:\\/\\/events\\.jianshu\\.io(:\\d+)?\\/",
             "completeProvider": true
+        },
+        "chaoxing.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?chaoxing\\.com\\/api\\/monitor",
+            "completeProvider": true
         }
     }
 }
