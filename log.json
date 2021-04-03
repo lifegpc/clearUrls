@@ -61,7 +61,7 @@
             "completeProvider": true
         },
         "baidu.com": {
-            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?baidu\\.com\\/.*v\\.gif(\\?[^\\?]*)?$",
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?baidu\\.com\\/.*\\w\\.gif(\\?[^\\?]*)?$",
             "completeProvider": true
         },
         "baidu.com_1": {
