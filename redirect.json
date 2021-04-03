@@ -8,7 +8,7 @@
         },
         "csdn.net": {
             "urlPattern": "^https?:\\/\\/link\\.csdn\\.net\\/",
-            "reredirections": [
+            "redirections": [
                 "^https?:\\/\\/link\\.csdn\\.net\\/\\?target=([^&]+)"
             ]
         }
