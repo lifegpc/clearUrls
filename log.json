@@ -31,6 +31,10 @@
         "aliyuncs.com": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*log\\.aliyuncs\\.com\\/",
             "completeProvider": true
+        },
+        "jianshu.com": {
+            "urlPattern": "^https?:\\/\\/events\\.jianshu\\.io(:\\d+)?\\/",
+            "completeProvider": true
         }
     }
 }
