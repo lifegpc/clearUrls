@@ -5,6 +5,12 @@
             "redirections": [
                 "^https?:\\/\\/link\\.zhihu\\.com\\/\\?target=([^&]+)"
             ]
+        },
+        "csdn.net": {
+            "urlPattern": "^https?:\\/\\/link\\.csdn\\.net\\/",
+            "reredirections": [
+                "^https?:\\/\\/link\\.csdn\\.net\\/\\?target=([^&]+)"
+            ]
         }
     }
 }
