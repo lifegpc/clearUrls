@@ -3,6 +3,10 @@
         "tiktok.com": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?tiktok\\.com",
             "rules": ["is_copy_url", "is_from_webapp" ,"sender_device", "sender_web_id"]
+        },
+        "nicovideo.jp": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?nicovideo\\.jp",
+            "rules": ["cmnhd_ref"]
         }
     }
 }
