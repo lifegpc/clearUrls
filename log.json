@@ -59,6 +59,10 @@
         "impact-ad.jp": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?impact-ad\\.jp",
             "completeProvider": true
+        },
+        "baidu.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?baidu\\.com\\/.*v\\.gif(\\?[^\\?]*)?$",
+            "completeProvider": true
         }
     }
 }
