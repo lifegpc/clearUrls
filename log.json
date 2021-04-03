@@ -7,6 +7,14 @@
         "acfun.cn": {
             "urlPattern": "^https?:\\/\\/apilog-web\\.acfun\\.cn\\/",
             "completeProvider": true
+        },
+        "gifshow.com": {
+            "urlPattern": "^https?:\\/\\/log-sdk\\.gifshow\\.com\\/",
+            "completeProvider": true
+        },
+        "hm.baidu.com": {
+            "urlPattern": "^https?:\\/\\/hm\\.baidu\\.com\\/",
+            "completeProvider": true
         }
     }
 }
