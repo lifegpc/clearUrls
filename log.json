@@ -65,7 +65,11 @@
             "completeProvider": true
         },
         "baidu.com_1": {
-            "urlPattern": "^(https?|wss):\\/\\/(?:[a-z0-9-]+\\.)*?baidu\\.com\\/log\\/",
+            "urlPattern": "^wss?:\\/\\/(?:[a-z0-9-]+\\.)*?baidu\\.com\\/log\\/",
+            "completeProvider": true
+        },
+        "nicovideo.jp_1": {
+            "urlPattern": "^wss?:\\/\\/(?:[a-z0-9-]+\\.)*?nicovideo\\.jp\\/\\d+\\/",
             "completeProvider": true
         }
     }
