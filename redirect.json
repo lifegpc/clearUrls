@@ -21,7 +21,7 @@
         "app.adjust.com": {
             "urlPattern": "^https?:\\/\\/app\\.adjust\\.com\\/",
             "redirections": [
-                "^https?:\\/\\/app\\.adjust\\.com\\/(:?[a-z0-9-\\/]+)?\\?redirect=([^&]+)"
+                "^https?:\\/\\/app\\.adjust\\.com\\/(?:[a-z0-9-\\/]+)?\\?redirect=([^&]+)"
             ]
         }
     }
