@@ -6,7 +6,7 @@
         },
         "nicovideo.jp": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?nicovideo\\.jp",
-            "rules": ["cmnhd_ref", "track"]
+            "rules": ["cmnhd_ref", "track", "ref"]
         },
         "cna.com.tw": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?cna\\.com\\.tw",
