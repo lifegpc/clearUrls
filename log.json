@@ -51,6 +51,10 @@
         "yahoo.co.jp": {
             "urlPattern": "^https?:\\/\\/logql\\.yahoo\\.co\\.jp\\/",
             "completeProvider": true
+        },
+        "yahoo.co.jp_1": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?imrworldwide\\.com\\/cgi-bin\\/gn",
+            "completeProvider": true
         }
     }
 }
