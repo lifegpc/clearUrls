@@ -71,6 +71,10 @@
         "nicovideo.jp_1": {
             "urlPattern": "^wss?:\\/\\/(?:[a-z0-9-]+\\.)*?nicovideo\\.jp\\/\\d+\\/",
             "completeProvider": true
+        },
+        "googletagmanager.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?googletagmanager\\.com\\/",
+            "completeProvider": true
         }
     }
 }
