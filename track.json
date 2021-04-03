@@ -16,6 +16,10 @@
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?bilibili\\.com",
             "rules": ["share_medium", "share_plat", "share_source", "share_tag",
                       "timestamp", "unique_k", "bbid", "ts"]
+        },
+        "myaccount.google.com": {
+            "urlPattern": "^https?:\\/myaccount\\.google\\.com",
+            "rules": ["utm_source", "utm_medium"]
         }
     }
 }
