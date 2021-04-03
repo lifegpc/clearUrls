@@ -2,7 +2,9 @@
     "providers": {
         "tiktok.com": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?tiktok\\.com",
-            "rules": ["is_copy_url", "is_from_webapp" ,"sender_device", "sender_web_id"]
+            "rules": ["is_copy_url", "is_from_webapp" ,"sender_device",
+                      "sender_web_id", "mid", "sec_user_id", "share_item_id",
+                      "share_link_id", "tt_from"]
         },
         "nicovideo.jp": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?nicovideo\\.jp",
