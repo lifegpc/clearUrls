@@ -1,0 +1,8 @@
+{
+    "providers": {
+        "bilibili.com": {
+            "urlPattern": "^https?:\\/\\/data\\.bilibili\\.com\\/log\\/",
+            "completeProvider": true
+        }
+    }
+}
