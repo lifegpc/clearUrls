@@ -3,6 +3,10 @@
         "bilibili.com": {
             "urlPattern": "^https?:\\/\\/data\\.bilibili\\.com\\/log\\/",
             "completeProvider": true
+        },
+        "acfun.cn": {
+            "urlPattern": "^https?:\\/apilog-web\\.acfun\\.cn\\/",
+            "completeProvider": true
         }
     }
 }
