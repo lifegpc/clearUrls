@@ -55,6 +55,10 @@
         "yahoo.co.jp_1": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?imrworldwide\\.com\\/cgi-bin\\/gn",
             "completeProvider": true
+        },
+        "impact-ad.jp": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?impact-ad\\.jp",
+            "completeProvider": true
         }
     }
 }
