@@ -5,6 +5,7 @@ Hash Url: [`https://cs.kanahanazawa.com/clearUrl?hash`](https://cs.kanahanazawa.
 
 ## Available GET parameters
 - `t`: Specify the [type](#rules-types) of rules. If this is empty, use all types. Can use `,` to separate two types.
+- `hash`: Return hash value rather than rules.
 
 # Rules Types
 ## log
