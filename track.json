@@ -7,6 +7,10 @@
         "nicovideo.jp": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?nicovideo\\.jp",
             "rules": ["cmnhd_ref"]
+        },
+        "cna.com.tw": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?cna\\.com\\.tw",
+            "rules": ["utm_source", "utm_medium", "utm_campaign"]
         }
     }
 }
