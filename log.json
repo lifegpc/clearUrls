@@ -21,7 +21,11 @@
             "completeProvider": true
         },
         "kuaishou.com_1": {
-            "urlPattern": "https?:\\/\\/log-sdk\\.ksapisrv\\.com\\/",
+            "urlPattern": "^https?:\\/\\/log-sdk\\.ksapisrv\\.com\\/",
+            "completeProvider": true
+        },
+        "nicovideo.jp": {
+            "urlPattern": "^https?:\\/\\/public\\.api\\.nicovideo\\.jp\/v1\/(user\/actions\/video\/watch-events.json|recommend\/log\/)",
             "completeProvider": true
         }
     }
