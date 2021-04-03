@@ -39,6 +39,14 @@
         "chaoxing.com": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?chaoxing\\.com\\/api\\/monitor",
             "completeProvider": true
+        },
+        "v.qq.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?video\\.qq\\.com\\/kvcollect",
+            "completeProvider":  true
+        },
+        "trace.qq.com": {
+            "urlPattern": "^https?:\\/\\/trace\\.qq\\.com\\/collect",
+            "completeProvider": true
         }
     }
 }
