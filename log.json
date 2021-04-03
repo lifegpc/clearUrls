@@ -5,7 +5,7 @@
             "completeProvider": true
         },
         "acfun.cn": {
-            "urlPattern": "^https?:\\/apilog-web\\.acfun\\.cn\\/",
+            "urlPattern": "^https?:\\/\\/apilog-web\\.acfun\\.cn\\/",
             "completeProvider": true
         }
     }
