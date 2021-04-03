@@ -47,6 +47,10 @@
         "trace.qq.com": {
             "urlPattern": "^https?:\\/\\/trace\\.qq\\.com\\/collect",
             "completeProvider": true
+        },
+        "yahoo.co.jp": {
+            "urlPattern": "^https?:\\/\\/logql\\.yahoo\\.co\\.jp\\/",
+            "completeProvider": true
         }
     }
 }
