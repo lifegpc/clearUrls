@@ -17,6 +17,12 @@
             "redirections": [
                 "^https?:\\/\\/link\\.jianshu\\.com\\/\\?t=([^&]+)"
             ]
+        },
+        "app.adjust.com": {
+            "urlPattern": "^https?:\\/\\/app\\.adjust\\.com\\/",
+            "redirections": [
+                "^https?:\\/\\/app\\.adjust\\.com\\/(:?[a-z0-9-\\/]+)?\\?redirect=([^&]+)"
+            ]
         }
     }
 }
