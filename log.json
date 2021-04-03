@@ -63,6 +63,10 @@
         "baidu.com": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?baidu\\.com\\/.*v\\.gif(\\?[^\\?]*)?$",
             "completeProvider": true
+        },
+        "baidu.com_1": {
+            "urlPattern": "^(https?|wss):\\/\\/(?:[a-z0-9-]+\\.)*?baidu\\.com\\/log\\/",
+            "completeProvider": true
         }
     }
 }
