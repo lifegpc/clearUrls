@@ -11,6 +11,11 @@
         "cna.com.tw": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?cna\\.com\\.tw",
             "rules": ["utm_source", "utm_medium", "utm_campaign"]
+        },
+        "bilibili.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?bilibili\\.com",
+            "rules": ["share_medium", "share_plat", "share_source", "share_tag",
+                      "timestamp", "unique_k", "bbid", "ts"]
         }
     }
 }
