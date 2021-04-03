@@ -25,7 +25,7 @@
             "completeProvider": true
         },
         "nicovideo.jp": {
-            "urlPattern": "^https?:\\/\\/public\\.api\\.nicovideo\\.jp\/v1\/(user\/actions\/video\/watch-events.json|recommend\/log\/)",
+            "urlPattern": "^https?:\\/\\/public\\.api\\.nicovideo\\.jp\\\/v1\\\/(user\\\/actions\\\/video\\\/watch-events\\.json|recommend\\\/log\\\/)",
             "completeProvider": true
         }
     }
