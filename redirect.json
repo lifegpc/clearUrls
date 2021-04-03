@@ -11,6 +11,12 @@
             "redirections": [
                 "^https?:\\/\\/link\\.csdn\\.net\\/\\?target=([^&]+)"
             ]
+        },
+        "jianshu.com": {
+            "urlPattern": "^https?:\\/\\/link\\.jianshu\\.com\\/",
+            "redirections": [
+                "^https?:\\/\\/link\\.jianshu\\.com\\/\\?t=([^&]+)"
+            ]
         }
     }
 }
