@@ -123,6 +123,10 @@
         "instagram.com_1": {
             "urlPattern": "^https?:\\/\\/(www\\.)?instagram\\.com\\/(logging|security\\/csp_report|ajax\\/bz)",
             "completeProvider": true
+        },
+        "twitter.com": {
+            "urlPattern": "^https?:\\/\\/api\\.twitter\\.com\\/1\\.1\\/jot\\/client_event\\.json",
+            "completeProvider": true
         }
     }
 }
