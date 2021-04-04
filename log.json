@@ -149,7 +149,7 @@
             "completeProvider": true
         },
         "translate.google.com": {
-            "urlPattern": "^https?:\\/\\/translate\\.google(?:\\.[a-z0-9-]+)*\\/_\\/TranslateWebserverUi\\/(cspreport|browserinfo)",
+            "urlPattern": "^https?:\\/\\/translate\\.google(?:\\.[a-z0-9-]+)*\\/_\\/TranslateWebserverUi\\/(cspreport|browserinfo|jserror)",
             "completeProvider": true
         }
     }
