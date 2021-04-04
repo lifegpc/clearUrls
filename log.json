@@ -75,6 +75,10 @@
         "googletagmanager.com": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?googletagmanager\\.com\\/",
             "completeProvider": true
+        },
+        "baidu.com_2": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?baidu\\.com\\/.*\\.htm(\\?[^\\?]*)?$",
+            "completeProvider": true
         }
     }
 }
