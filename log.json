@@ -145,7 +145,7 @@
             "completeProvider": true
         },
         "google.com": {
-            "urlPattern": "^https?:\\/\\/(www\\.)?google\\.(?:\\.[a-z0-9-]+)*\\/log",
+            "urlPattern": "^https?:\\/\\/(www\\.)?google(?:\\.[a-z0-9-]+)*\\/log",
             "completeProvider": true
         }
     }
