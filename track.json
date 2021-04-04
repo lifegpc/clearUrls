@@ -29,11 +29,11 @@
         },
         "baidu.com": {
             "urlPattern": "^https?:\\/\\/(www\\.)?baidu\\.com\\/s(\\?[^\\?]*)?$",
-            "rules": ["rsv_\\w+", "inputT", "f"]
+            "rules": ["rsv_\\w+", "inputT", "f", "ie"]
         },
         "baidu.com_1": {
             "urlPattern": "^https?:\\/\\/(www\\.)?baidu\\.com\\/sf\\/vsearch(\\?[^\\?]*)?$",
-            "rules": ["rsv_\\w+", "lid", "f"]
+            "rules": ["rsv_\\w+", "lid", "f", "ie"]
         }
     }
 }
