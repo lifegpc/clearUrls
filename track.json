@@ -54,7 +54,7 @@
         "baidu.com_3": {
             "urlPattern": "^https?:\\/\\/m\\.baidu\\.com.*\\/s(\\?[^\\?]*)?$",
             "rules": ["lid", "vslid", "sa", "sectab"],
-            "rawRules": ["(\\/ssid=[^\\/]+)+"]
+            "rawRules": ["\\/\\w+=[^\\/]+"]
         }
     }
 }
