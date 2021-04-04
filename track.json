@@ -5,7 +5,7 @@
             "rules": ["is_copy_url", "is_from_webapp" ,"sender_device",
                       "sender_\\w+_id", "mid", "sec_user_id", "tt_from",
                       "screen_\\w+", "browser_\\w+", "timezone_name", "is\\w+",
-                      "OS"]
+                      "OS", "share_\\w+_id"]
         },
         "nicovideo.jp": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?nicovideo\\.jp",
