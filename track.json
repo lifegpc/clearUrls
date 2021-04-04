@@ -34,6 +34,10 @@
         "baidu.com_1": {
             "urlPattern": "^https?:\\/\\/(www\\.)?baidu\\.com\\/sf\\/vsearch(\\?[^\\?]*)?$",
             "rules": ["rsv_\\w+", "lid", "f", "ie"]
+        },
+        "google.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?google(?:\\.[a-z]{2,}){1,}\\/search",
+            "rules": ["iflsig"]
         }
     }
 }
