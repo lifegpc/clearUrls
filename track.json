@@ -46,10 +46,6 @@
         "zhidao.baidu.com": {
             "urlPattern": "^https?:\\/\\/zhidao\\.baidu\\.com\\/",
             "rules": ["fr"]
-        },
-        "cnblogs.com": {
-            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?cnblogs\\.com",
-            "rules": ["v"]
         }
     }
 }
