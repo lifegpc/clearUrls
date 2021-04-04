@@ -139,6 +139,10 @@
         "tiktok.com_1": {
             "urlPattern": "^https?:\\/\\/mon-va\\.byteoversea\\.com\\/log\\/sentry\\/v2\\/api\\/slardar\\/batch\\/",
             "completeProvider": true
+        },
+        "tiktok.com_2": {
+            "urlPattern": "^https?:\\/\\/verify-sg\\.byteoversea\\.com\\/captcha\\/reportFrontend",
+            "completeProvider": true
         }
     }
 }
