@@ -115,6 +115,14 @@
         "qidian.com_2": {
             "urlPattern": "^https?:\\/\\/isdspeed\\.qidian\\.com\\/cgi-bin\\/r\\.cgi",
             "completeProvider": true
+        },
+        "instagram.com": {
+            "urlPattern": "^https?:\\/\\/graph\\.instagram\\.com\\/logging_client_events",
+            "completeProvider": true
+        },
+        "instagram.com_1": {
+            "urlPattern": "^https?:\\/\\/(www\\.)?instagram\\.com\\/logging",
+            "completeProvider": true
         }
     }
 }
