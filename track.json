@@ -29,7 +29,7 @@
         },
         "baidu.com": {
             "urlPattern": "^https?:\\/\\/(www\\.)?baidu\\.com\\/s(\\?[^\\?]*)?$",
-            "rules": ["rsv_\\w+"]
+            "rules": ["rsv_\\w+", "inputT"]
         }
     }
 }
