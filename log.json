@@ -79,6 +79,10 @@
         "baidu.com_2": {
             "urlPattern": "^https?:\\/\\/miao\\.baidu\\.com\\/abdr(\\?[^\\?]*)?$",
             "completeProvider": true
+        },
+        "pubmed": {
+            "urlPattern": "^https?:\\/\\/(www\\.)?ncbi\\.nlm\\.nih\\.gov\\/stat(\\?[^\\?]*)?$",
+            "completeProvider": true
         }
     }
 }
