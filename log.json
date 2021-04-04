@@ -87,6 +87,14 @@
         "cnki.net": {
             "urlPattern": "^https?:\\/\\/track\\.cnki\\.net\\/tracking(\\?[^\\?]*)?$",
             "completeProvider": true
+        },
+        "qq.com": {
+            "urlPattern": "^https?:\\/\\/prom\\.b\\.qq\\.com\\/.*\\.gif(\\?[^\\?]*)?$",
+            "completeProvider": true
+        },
+        "qq.com_1": {
+            "urlPattern": "^https?:\\/\\/da\\.qidian\\.qq\\.com",
+            "completeProvider": true
         }
     }
 }
