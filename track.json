@@ -38,6 +38,10 @@
         "google.com": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?google(?:\\.[a-z]{2,}){1,}\\/search",
             "rules": ["iflsig"]
+        },
+        "baidu.com_2": {
+            "urlPattern": "^https?:\\/\\/image\\.baidu\\.com\\/search\\/index(\\?[^\\?]*)?$",
+            "rules": ["ct", "ie"]
         }
     }
 }
