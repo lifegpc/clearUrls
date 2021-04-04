@@ -151,6 +151,10 @@
         "translate.google.com": {
             "urlPattern": "^https?:\\/\\/translate\\.google(?:\\.[a-z0-9-]+)*\\/_\\/TranslateWebserverUi\\/(cspreport|browserinfo|jserror)",
             "completeProvider": true
+        },
+        "deepl.com": {
+            "urlPattern": "^https?:\\/\\/s\\.deepl\\.com\\/web\\/statistics",
+            "completeProvider": true
         }
     }
 }
