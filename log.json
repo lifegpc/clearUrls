@@ -93,7 +93,11 @@
             "completeProvider": true
         },
         "qq.com_1": {
-            "urlPattern": "^https?:\\/\\/da\\.qidian\\.qq\\.com",
+            "urlPattern": "^https?:\\/\\/da\\.qidian\\.qq\\.com\\/",
+            "completeProvider": true
+        },
+        "cqvip.com": {
+            "urlPattern": "^https?:\\/\\/log\\.cqvip\\.com\\/",
             "completeProvider": true
         }
     }
