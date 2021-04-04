@@ -62,6 +62,10 @@
             "rules": ["ref", "lid", "ct", "cst", "isAtom", "is_baidu", "tj",
                       "eqid", "w_qd", "tcplug", "dict", "sec", "di"],
             "rawRules": ["\\/\\w+=[^\\/]+"]
+        },
+        "baidu.com_5": {
+            "urlPattern": "^https?:\\/\\/m\\.baidu\\.com\\/sf\\/vsearch(\\?[^\\?]*)?$",
+            "rules": ["tn", "sa", "lid", "ms"]
         }
     }
 }
