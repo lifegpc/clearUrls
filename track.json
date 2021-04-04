@@ -56,6 +56,12 @@
             "rules": ["lid", "vslid", "sa", "sectab", "ref", "ssid", "from",
                       "bd_page_type", "uid", "pu"],
             "rawRules": ["\\/\\w+=[^\\/]+"]
+        },
+        "baidu.com_4": {
+            "urlPattern": "^https?:\\/\\/m\\.baidu\\.com.*\\/tc(\\?[^\\?]*)?$",
+            "rules": ["ref", "lid", "ct", "cst", "isAtom", "is_baidu", "tj",
+                      "eqid", "w_qd", "tcplug", "dict", "sec", "di"],
+            "rawRules": ["\\/\\w+=[^\\/]+"]
         }
     }
 }
