@@ -83,6 +83,10 @@
         "pubmed": {
             "urlPattern": "^https?:\\/\\/(www\\.)?ncbi\\.nlm\\.nih\\.gov\\/stat(\\?[^\\?]*)?$",
             "completeProvider": true
+        },
+        "cnki.net": {
+            "urlPattern": "^https?:\\/\\/track\\.cnki\\.net\\/tracking(\\?[^\\?]*)?$",
+            "completeProvider": true
         }
     }
 }
