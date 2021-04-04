@@ -123,6 +123,10 @@
         "instagram.com_1": {
             "urlPattern": "^https?:\\/\\/(www\\.)?instagram\\.com\\/logging",
             "completeProvider": true
+        },
+        "instagram.com_2": {
+            "urlPattern": "^https?:\\/\\/(www\\.)?instagram\\.com\\/security\\/csp_report",
+            "completeProvider": true
         }
     }
 }
