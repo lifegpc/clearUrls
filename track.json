@@ -46,6 +46,15 @@
         "zhidao.baidu.com": {
             "urlPattern": "^https?:\\/\\/zhidao\\.baidu\\.com\\/",
             "rules": ["fr"]
+        },
+        "tieba.baidu.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?tieba\\.baidu\\.com\\/",
+            "rules": ["fr"]
+        },
+        "baidu.com_3": {
+            "urlPattern": "^https?:\\/\\/m\\.baidu\\.com.*\\/s(\\?[^\\?]*)?$",
+            "rules": ["lid", "vslid"],
+            "rawRules": ["\\/ssid=[^\\/]+"]
         }
     }
 }
