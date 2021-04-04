@@ -79,6 +79,10 @@
         "baidu.com_2": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?baidu\\.com\\/.*\\.htm(\\?[^\\?]*)?$",
             "completeProvider": true
+        },
+        "baidu.com_3": {
+            "urlPattern": "^https?:\\/\\/miao\\.baidu\\.com\\/abdr(\\?[^\\?]*)?$",
+            "completeProvider": true
         }
     }
 }
