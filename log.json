@@ -137,7 +137,7 @@
             "completeProvider": true
         },
         "tiktok.com_1": {
-            "urlPattern": "^https?:\\/\\/mon-va\\.byteoversea\\.com\\/log\\/sentry\\/v2\\/api\\/slardar\\/batch\\/",
+            "urlPattern": "^https?:\\/\\/mon-va\\.byteoversea\\.com\\/log\\/",
             "completeProvider": true
         },
         "tiktok.com_2": {
