@@ -42,6 +42,10 @@
         "baidu.com_2": {
             "urlPattern": "^https?:\\/\\/image\\.baidu\\.com\\/search\\/index(\\?[^\\?]*)?$",
             "rules": ["ct", "ie"]
+        },
+        "zhidao.baidu.com": {
+            "urlPattern": "^https?:\\/\\/zhidao\\.baidu\\.com\\/",
+            "rules": ["fr"]
         }
     }
 }
