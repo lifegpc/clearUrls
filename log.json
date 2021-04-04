@@ -131,6 +131,10 @@
         "twitter.com_1": {
             "urlPattern": "^https?:\\/\\/twitter\\.com\\/i\\/api\\/1.1\\/promoted_content\\/log\\.json",
             "completeProvider": true
+        },
+        "tiktok.com": {
+            "urlPattern": "^https?:\\/\\/mcs-sg\\.tiktokv\\.com\\/v1\\/list",
+            "completeProvider": true
         }
     }
 }
