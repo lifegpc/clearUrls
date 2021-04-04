@@ -143,6 +143,10 @@
         "tiktok.com_2": {
             "urlPattern": "^https?:\\/\\/verify-sg\\.byteoversea\\.com\\/captcha\\/reportFrontend",
             "completeProvider": true
+        },
+        "google.com": {
+            "urlPattern": "^https?:\\/\\/(www\\.)?google\\.(?:\\.[a-z0-9-]+)*\\/log",
+            "completeProvider": true
         }
     }
 }
