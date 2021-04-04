@@ -147,6 +147,10 @@
         "google.com": {
             "urlPattern": "^https?:\\/\\/(www\\.)?google(?:\\.[a-z0-9-]+)*\\/log",
             "completeProvider": true
+        },
+        "translate.google.com": {
+            "urlPattern": "^https?:\\/\\/(www\\.)?google(?:\\.[a-z0-9-]+)*\\/_\\/TranslateWebserverUi\\/cspreport",
+            "completeProvider": true
         }
     }
 }
