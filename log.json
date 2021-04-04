@@ -135,6 +135,10 @@
         "tiktok.com": {
             "urlPattern": "^https?:\\/\\/mcs-sg\\.tiktokv\\.com\\/v1\\/list",
             "completeProvider": true
+        },
+        "tiktok.com_1": {
+            "urlPattern": "^https?:\\/\\/mon-va\\.byteoversea\\.com\\/log\\/sentry\\/v2\\/api\\/slardar\\/batch\\/",
+            "completeProvider": true
         }
     }
 }
