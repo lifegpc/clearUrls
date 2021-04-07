@@ -159,6 +159,10 @@
         "WebOfScience": {
             "urlPattern": "^https?:\\/\\/snowplow\\.apps\\.clarivate\\.com\\/\\w",
             "completeProvider": true
+        },
+        "facebook.com": {
+            "urlPattern": "^https?:\\/\\/(www\\.)?facebook\\.com\\/ajax\\/bz",
+            "completeProvider": true
         }
     }
 }
