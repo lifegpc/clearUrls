@@ -155,6 +155,10 @@
         "deepl.com": {
             "urlPattern": "^https?:\\/\\/s\\.deepl\\.com\\/web\\/statistics",
             "completeProvider": true
+        },
+        "WebOfScience": {
+            "urlPattern": "^https?:\\/\\/snowplow\\.apps\\.clarivate\\.com\\/\\w",
+            "completeProvider": true
         }
     }
 }
