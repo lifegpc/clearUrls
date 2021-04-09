@@ -31,7 +31,7 @@
         },
         "baidu.com": {
             "urlPattern": "^https?:\\/\\/(www\\.)?baidu\\.com\\/s(\\?[^\\?]*)?$",
-            "rules": ["rsv_\\w+", "inputT", "f", "ie"]
+            "rules": ["rsv_\\w+", "inputT", "f", "ie", "tn"]
         },
         "baidu.com_1": {
             "urlPattern": "^https?:\\/\\/(www\\.)?baidu\\.com\\/sf\\/vsearch(\\?[^\\?]*)?$",
@@ -47,7 +47,7 @@
         },
         "zhidao.baidu.com": {
             "urlPattern": "^https?:\\/\\/zhidao\\.baidu\\.com\\/",
-            "rules": ["fr"]
+            "rules": ["fr", "tn"]
         },
         "tieba.baidu.com": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?tieba\\.baidu\\.com\\/",
