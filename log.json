@@ -163,6 +163,10 @@
         "facebook.com": {
             "urlPattern": "^https?:\\/\\/(www\\.)?facebook\\.com\\/ajax\\/bz",
             "completeProvider": true
+        },
+        "apkpure.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*apkpure\\.com\\/analytics\\/",
+            "completeProvider": true
         }
     }
 }
