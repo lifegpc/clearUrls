@@ -167,6 +167,10 @@
         "apkpure.com": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*apkpure\\.com\\/analytics\\/",
             "completeProvider": true
+        },
+        "facebook.com_1": {
+            "urlPattern": "^https?:\\/\\/(www\\.)facebook\\.com\\/plugins\\/feedback\\.php",
+            "completeProvider": true
         }
     }
 }
