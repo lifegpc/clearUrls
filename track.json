@@ -69,6 +69,10 @@
         "baidu.com_5": {
             "urlPattern": "^https?:\\/\\/m\\.baidu\\.com\\/sf\\/vsearch(\\?[^\\?]*)?$",
             "rules": ["tn", "sa", "lid", "ms", "fr"]
+        },
+        "play.google.com": {
+            "urlPattern": "^https?:\\/\\/play\\.google\\.com",
+            "rules": ["pcampaignid"]
         }
     }
 }
