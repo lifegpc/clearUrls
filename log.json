@@ -171,6 +171,10 @@
         "facebook.com_1": {
             "urlPattern": "^https?:\\/\\/(www\\.)facebook\\.com\\/plugins\\/feedback\\.php",
             "completeProvider": true
+        },
+        "play.google.com": {
+            "urlPattern": "^https?:\\/\\/play\\.google\\.com\\/(books\\/)?log",
+            "completeProvider": true
         }
     }
 }
