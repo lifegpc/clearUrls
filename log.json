@@ -175,6 +175,10 @@
         "play.google.com": {
             "urlPattern": "^https?:\\/\\/play\\.google\\.com\\/(play\\/)?log",
             "completeProvider": true
+        },
+        "play.google.com_1": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?play\\.google\\.com\\/_\\/PlayCommerceAcquireUi\\/jserror",
+            "completeProvider": true
         }
     }
 }
