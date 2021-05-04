@@ -173,7 +173,7 @@
             "completeProvider": true
         },
         "play.google.com": {
-            "urlPattern": "^https?:\\/\\/play\\.google\\.com\\/(books\\/)?log",
+            "urlPattern": "^https?:\\/\\/play\\.google\\.com\\/(play\\/)?log",
             "completeProvider": true
         }
     }
