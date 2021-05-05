@@ -73,6 +73,10 @@
         "play.google.com": {
             "urlPattern": "^https?:\\/\\/play\\.google\\.com",
             "rules": ["pcampaignid"]
+        },
+        "ogurayui.jp": {
+            "urlPattern": "^https?:\\/\\/syndication\\.twitter\\.com\\/settings",
+            "rules": ["session_id"]
         }
     }
 }
