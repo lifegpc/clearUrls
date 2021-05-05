@@ -183,6 +183,10 @@
         "cna.com.tw": {
             "urlPattern": "^https?:\\/\\/certify\\.alexametrics\\.com\\/atrk\\.gif",
             "completeProvider": true
+        },
+        "cna.com.tw_1": {
+            "urlPattern": "^https?:\\/\\/sb\\.scorecardresearch\\.com\\/",
+            "completeProvider": true
         }
     }
 }
