@@ -191,6 +191,10 @@
         "facebook.com_2": {
             "urlPattern": "^https?:\\/\\/(www\\.)?facebook\\.com\\/tr\\/",
             "completeProvider": true
+        },
+        "facebook.com_3": {
+            "urlPattern": "^https?:\\/\\/(www\\.)?facebook\\.com\\/plugins\\/like\\.php",
+            "completeProvider": true
         }
     }
 }
