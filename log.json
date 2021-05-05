@@ -187,6 +187,10 @@
         "cna.com.tw_1": {
             "urlPattern": "^https?:\\/\\/sb\\.scorecardresearch\\.com\\/",
             "completeProvider": true
+        },
+        "facebook.com_2": {
+            "urlPattern": "^https?:\\/\\/(www\\.)?facebook\\.com\\/tr\\/",
+            "completeProvider": true
         }
     }
 }
