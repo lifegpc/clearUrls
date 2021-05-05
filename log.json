@@ -201,7 +201,7 @@
             "completeProvider": true
         },
         "ogurayui.jp": {
-            "urlPattern": "https?:\\/\\/twitter\\.com\\/i\\/jot",
+            "urlPattern": "https?:\\/\\/([a-z0-9-]+\\.)*twitter\\.com\\/i\\/jot",
             "completeProvider": true
         },
         "ogurayui.jp_1": {
