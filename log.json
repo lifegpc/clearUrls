@@ -199,6 +199,14 @@
         "facebook.com_4": {
             "urlPattern": "^https?:\\/\\/connect\\.facebook\\.net\\/([^\\/]+\\/)?sdk\\.js",
             "completeProvider": true
+        },
+        "ogurayui.jp": {
+            "urlPattern": "https?:\\/\\/syndication\\.twitter\\.com\\/i\\/jot",
+            "completeProvider": true
+        },
+        "ogurayui.jp_1": {
+            "urlPattern": "https?:\\/\\/(www\\.)?youtube\\.com\\/youtubei\\/v1\\/log_event",
+            "completeProvider": true
         }
     }
 }
