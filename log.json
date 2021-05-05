@@ -207,6 +207,10 @@
         "ogurayui.jp_1": {
             "urlPattern": "https?:\\/\\/(www\\.)?youtube\\.com\\/youtubei\\/v1\\/log_event",
             "completeProvider": true
+        },
+        "ogurayui.jp_2": {
+            "urlPattern": "^https?:\\/\\/googleads\\.g\\.doubleclick\\.net\\/pagead\\/",
+            "completeProvider": true
         }
     }
 }
