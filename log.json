@@ -181,7 +181,7 @@
             "completeProvider": true
         },
         "cna.com.tw": {
-            "urlPattern": "^https?:\\/\\/certify\\.alexametrics\\.com\\/atrk\\.gif",
+            "urlPattern": "^https?:\\/\\/certify(-js)?\\.alexametrics\\.com\\/atrk\\.(gif|js)",
             "completeProvider": true
         },
         "cna.com.tw_1": {
