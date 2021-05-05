@@ -179,6 +179,10 @@
         "play.google.com_1": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?play\\.google\\.com\\/_\\/PlayCommerceAcquireUi\\/jserror",
             "completeProvider": true
+        },
+        "cna.com.tw": {
+            "urlPattern": "^https?:\\/\\/certify\\.alexametrics\\.com\\/atrk\\.gif",
+            "completeProvider": true
         }
     }
 }
