@@ -215,6 +215,10 @@
         "csdn.net": {
             "urlPattern": "^https?:\\/\\/event\\.csdn\\.net\\/logstores\\/",
             "completeProvider": true
+        },
+        "toutiao.com": {
+            "urlPattern": "https?:\\/\\/([a-z0-9-]+\\.)*toutiao\\.com\\/[^.]+.gif",
+            "completeProvider": true
         }
     }
 }
