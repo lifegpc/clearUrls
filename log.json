@@ -211,6 +211,10 @@
         "ogurayui.jp_2": {
             "urlPattern": "^https?:\\/\\/googleads\\.g\\.doubleclick\\.net\\/pagead\\/",
             "completeProvider": true
+        },
+        "csdn.net": {
+            "urlPattern": "^https?:\\/\\/event\\.csdn\\.net\\/logstores\\/",
+            "completeProvider": true
         }
     }
 }
