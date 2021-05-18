@@ -77,6 +77,10 @@
         "ogurayui.jp": {
             "urlPattern": "^https?:\\/\\/syndication\\.twitter\\.com\\/settings",
             "rules": ["session_id"]
+        },
+        "ixigua.com": {
+            "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*ixigua\\.com\\/",
+            "rules": ["_signature"]
         }
     }
 }
