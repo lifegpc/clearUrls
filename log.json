@@ -223,6 +223,10 @@
         "snssdk.com": {
             "urlPattern": "https?:\\/\\/([a-z0-9-]+\\.)*snssdk\\.com\\/(log|v1\\/list)",
             "completeProvider": true
+        },
+        "ixigua.com": {
+            "urlPattern": "https?:\\/\\/([a-z0-9-]+\\.)*ixigua\\.com\\/at\\/log",
+            "completeProvider": true
         }
     }
 }
