@@ -80,7 +80,7 @@
         },
         "ixigua.com": {
             "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*ixigua\\.com\\/",
-            "rules": ["_signature"]
+            "rules": ["_signature", "logtag"]
         }
     }
 }
