@@ -219,6 +219,10 @@
         "toutiao.com": {
             "urlPattern": "https?:\\/\\/([a-z0-9-]+\\.)*toutiao\\.com\\/[^.]+.gif",
             "completeProvider": true
+        },
+        "snssdk.com": {
+            "urlPattern": "https?:\\/\\/([a-z0-9-]+\\.)*snssdk\\.com\\/log",
+            "completeProvider": true
         }
     }
 }
