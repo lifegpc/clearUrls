@@ -23,6 +23,12 @@
             "redirections": [
                 "^https?:\\/\\/app\\.adjust\\.com\\/(?:[a-z0-9-\\/]+)?\\?redirect=([^&]+)"
             ]
+        },
+        "jianshu.com_1": {
+            "urlPatten": "^https?:\\/\\/([a-z0-9-]+\\.)*jianshu\\.com\\/go\\-wild",
+            "redirections": [
+                "^https?:\\/\\/(?:[a-z0-9-]+\\.)*jianshu\\.com\\/go\\-wild\\?.*?url\\=([^&]+)&?.*"
+            ]
         }
     }
 }
