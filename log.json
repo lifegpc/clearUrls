@@ -251,6 +251,10 @@
         "mail.google.com": {
             "urlPattern": "^https?:\\/\\/mail\\.google\\.com\\/mail\\/u\\/\\d+\\/logstreamz",
             "completeProvider": true
+        },
+        "tradingview.com": {
+            "urlPattern": "^https?:\\/\\/telemetry\\.tradingview\\.com\\/widget\\/report",
+            "completeProvider": true
         }
     }
 }
