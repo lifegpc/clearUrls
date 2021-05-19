@@ -235,6 +235,10 @@
         "youtube.com": {
             "urlPattern": "https?:\\/\\/([a-z0-9-]+\\.)*youtube\\.com\\/api\\/stats\\/",
             "completeProvider": true
+        },
+        "youtube.com_1": {
+            "urlPattern": "https?:\\/\\/([a-z0-9-]+\\.)*youtube.com\\/ptracking",
+            "completeProvider": true
         }
     }
 }
