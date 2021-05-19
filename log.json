@@ -201,11 +201,11 @@
             "completeProvider": true
         },
         "ogurayui.jp": {
-            "urlPattern": "https?:\\/\\/([a-z0-9-]+\\.)*twitter\\.com\\/i\\/jot",
+            "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*twitter\\.com\\/i\\/jot",
             "completeProvider": true
         },
         "ogurayui.jp_1": {
-            "urlPattern": "https?:\\/\\/(www\\.)?youtube\\.com\\/youtubei\\/v1\\/log_event",
+            "urlPattern": "^https?:\\/\\/(www\\.)?youtube\\.com\\/youtubei\\/v1\\/log_event",
             "completeProvider": true
         },
         "ogurayui.jp_2": {
@@ -217,35 +217,39 @@
             "completeProvider": true
         },
         "toutiao.com": {
-            "urlPattern": "https?:\\/\\/([a-z0-9-]+\\.)*toutiao\\.com\\/[^.]+.gif",
+            "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*toutiao\\.com\\/[^.]+.gif",
             "completeProvider": true
         },
         "snssdk.com": {
-            "urlPattern": "https?:\\/\\/([a-z0-9-]+\\.)*snssdk\\.com\\/(log|v1\\/list)",
+            "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*snssdk\\.com\\/(log|v1\\/list)",
             "completeProvider": true
         },
         "ixigua.com": {
-            "urlPattern": "https?:\\/\\/([a-z0-9-]+\\.)*ixigua\\.com\\/at\\/log",
+            "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*ixigua\\.com\\/at\\/log",
             "completeProvider": true
         },
         "music.youtube.com": {
-            "urlPattern": "https?:\\/\\/music\\.youtube\\.com\\/youtubei\\/v1\\/log_event",
+            "urlPattern": "^https?:\\/\\/music\\.youtube\\.com\\/youtubei\\/v1\\/log_event",
             "completeProvider": true
         },
         "youtube.com": {
-            "urlPattern": "https?:\\/\\/([a-z0-9-]+\\.)*youtube\\.com\\/api\\/stats\\/",
+            "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*youtube\\.com\\/api\\/stats\\/",
             "completeProvider": true
         },
         "youtube.com_1": {
-            "urlPattern": "https?:\\/\\/([a-z0-9-]+\\.)*youtube.com\\/ptracking",
+            "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*youtube.com\\/ptracking",
             "completeProvider": true
         },
         "apple.com": {
-            "urlPattern": "https?:\\/\\/xp\\.apple\\.com\\/report\\/",
+            "urlPattern": "^https?:\\/\\/xp\\.apple\\.com\\/report\\/",
             "completeProvider": true
         },
         "apple.com_1": {
-            "urlPattern": "https?:\\/\\/([a-z0-9-]+\\.)*apple\\.com\\/appleauth\\/jslog",
+            "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*apple\\.com\\/appleauth\\/jslog",
+            "completeProvider": true
+        },
+        "mail.google.com": {
+            "urlPattern": "^https?:\\/\\/mail\\.google\\.com\\/mail\\/u\\/\\d+\\/logstreamz",
             "completeProvider": true
         }
     }
