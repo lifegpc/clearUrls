@@ -227,6 +227,10 @@
         "ixigua.com": {
             "urlPattern": "https?:\\/\\/([a-z0-9-]+\\.)*ixigua\\.com\\/at\\/log",
             "completeProvider": true
+        },
+        "music.youtube.com": {
+            "urlPattern": "https?:\\/\\/music\\.youtube\\.com\\/youtubei\\/v1\\/log_event",
+            "completeProvider": true
         }
     }
 }
