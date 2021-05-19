@@ -232,8 +232,8 @@
             "urlPattern": "https?:\\/\\/music\\.youtube\\.com\\/youtubei\\/v1\\/log_event",
             "completeProvider": true
         },
-        "music.youtube.com_1": {
-            "urlPattern": "https?:\\/\\/music\\.youtube\\.com\\/api\\/stats\\/",
+        "youtube.com": {
+            "urlPattern": "https?:\\/\\/([a-z0-9-]+\\.)*youtube\\.com\\/api\\/stats\\/",
             "completeProvider": true
         }
     }
