@@ -239,6 +239,10 @@
         "youtube.com_1": {
             "urlPattern": "https?:\\/\\/([a-z0-9-]+\\.)*youtube.com\\/ptracking",
             "completeProvider": true
+        },
+        "apple.com": {
+            "urlPattern": "https?:\\/\\/xp\\.apple\\.com\\/report\\/",
+            "completeProvider": true
         }
     }
 }
