@@ -243,6 +243,10 @@
         "apple.com": {
             "urlPattern": "https?:\\/\\/xp\\.apple\\.com\\/report\\/",
             "completeProvider": true
+        },
+        "apple.com_1": {
+            "urlPattern": "https?:\\/\\/([a-z0-9-]+\\.)*apple\\.com\\/appleauth\\/jslog",
+            "completeProvider": true
         }
     }
 }
