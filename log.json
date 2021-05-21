@@ -275,6 +275,10 @@
         "qq.com_7": {
             "urlPattern": "^wss?:\\/\\/chat\\.qidian\\.qq\\.com\\/status\\/",
             "completeProvider": true
+        },
+        "qq.com_8": {
+            "urlPattern": "^https?:\\/\\/webpage\\.qidian\\.qq\\.com\\/qidian\\/chatClient\\/",
+            "completeProvider": true
         }
     }
 }
