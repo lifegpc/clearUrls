@@ -283,6 +283,10 @@
         "qq.com_9": {
             "urlPattern": "^https?:\\/\\/badjs\\.qidian\\.qq\\.com\\/badjs",
             "completeProvider": true
+        },
+        "qq.com_10": {
+            "urlPattern": "^https?:\\/\\/admin\\.qidian\\.qq\\.com\\/",
+            "completeProvider": true
         }
     }
 }
