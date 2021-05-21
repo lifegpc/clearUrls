@@ -263,6 +263,10 @@
         "qq.com_4": {
             "urlPattern": "^https?:\\/\\/fereport\\.qidian\\.qq\\.com\\/report\\/",
             "completeProvider": true
+        },
+        "qq.com_5": {
+            "urlPattern": "^https?:\\/\\/v\\.qidian\\.qq\\.com\\/events\\/report",
+            "completeProvider": true
         }
     }
 }
