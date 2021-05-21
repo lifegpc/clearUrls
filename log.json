@@ -289,7 +289,11 @@
             "completeProvider": true
         },
         "chaoxing.com_1": {
-            "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*chaoxing.com\\/log\\/",
+            "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*chaoxing\\.com\\/log\\/",
+            "completeProvider": true
+        },
+        "netease.com": {
+            "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*netease\\.com\\/track\\/",
             "completeProvider": true
         }
     }
