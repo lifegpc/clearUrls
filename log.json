@@ -267,6 +267,10 @@
         "qq.com_5": {
             "urlPattern": "^https?:\\/\\/v\\.qidian\\.qq\\.com\\/events\\/report",
             "completeProvider": true
+        },
+        "qq.com_6": {
+            "urlPattern": "^https?:\\/\\/pingfore\\.qq\\.com\\/pingd",
+            "completeProvider": true
         }
     }
 }
