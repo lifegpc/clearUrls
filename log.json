@@ -279,6 +279,10 @@
         "qq.com_8": {
             "urlPattern": "^https?:\\/\\/webpage\\.qidian\\.qq\\.com\\/qidian\\/chatClient\\/",
             "completeProvider": true
+        },
+        "qq.com_9": {
+            "urlPattern": "^https?:\\/\\/badjs\\.qidian\\.qq\\.com\\/badjs",
+            "completeProvider": true
         }
     }
 }
