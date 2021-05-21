@@ -295,6 +295,10 @@
         "netease.com": {
             "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*netease\\.com\\/track\\/",
             "completeProvider": true
+        },
+        "github.com": {
+            "urlPattern": "^https?:\\/\\/collector\\.githubapp\\.com\\/",
+            "completeProvider": true
         }
     }
 }
