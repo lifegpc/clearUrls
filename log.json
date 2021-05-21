@@ -259,6 +259,10 @@
         "qq.com_3": {
             "urlPattern": "^https?:\\/\\/btrace\\.qq\\.com\\/kvcollect",
             "completeProvider": true
+        },
+        "qq.com_4": {
+            "urlPattern": "^https?:\\/\\/fereport\\.qidian\\.qq\\.com\\/report\\/",
+            "completeProvider": true
         }
     }
 }
