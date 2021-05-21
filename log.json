@@ -287,6 +287,10 @@
         "qq.com_10": {
             "urlPattern": "^https?:\\/\\/admin\\.qidian\\.qq\\.com\\/",
             "completeProvider": true
+        },
+        "chaoxing.com_1": {
+            "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*chaoxing.com\\/log\\/",
+            "completeProvider": true
         }
     }
 }
