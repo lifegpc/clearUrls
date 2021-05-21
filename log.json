@@ -255,6 +255,10 @@
         "tradingview.com": {
             "urlPattern": "^https?:\\/\\/telemetry\\.tradingview\\.com\\/widget\\/report",
             "completeProvider": true
+        },
+        "qq.com_3": {
+            "urlPattern": "^https?:\\/\\/btrace\\.qq\\.com\\/kvcollect",
+            "completeProvider": true
         }
     }
 }
