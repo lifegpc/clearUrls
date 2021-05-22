@@ -299,6 +299,10 @@
         "github.com": {
             "urlPattern": "^https?:\\/\\/collector\\.githubapp\\.com\\/",
             "completeProvider": true
+        },
+        "quantserve.com": {
+            "urlPattern": "^https?:\\/\\/pixel\\.quantserve\\.com\\/",
+            "completeProvider": true
         }
     }
 }
