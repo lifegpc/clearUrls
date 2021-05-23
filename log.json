@@ -308,6 +308,10 @@
             "urlPattern": "^https?:\\/\\/(www\\.)?reddit\\.com\\/$",
             "completeProvider": true,
             "methods": ["POST"]
+        },
+        "reddit.com_1": {
+            "urlPattern": "^https?:\\/\\/(www\\.)?reddit\\.com\\/(counters\\/client-screenview|timings\\/mount)",
+            "completeProvider": true
         }
     }
 }
