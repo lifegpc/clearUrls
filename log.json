@@ -303,6 +303,11 @@
         "quantserve.com": {
             "urlPattern": "^https?:\\/\\/pixel\\.quantserve\\.com\\/",
             "completeProvider": true
+        },
+        "reddit.com": {
+            "urlPattern": "^https?:\\/\\/(www\\.)?reddit\\.com\\/$",
+            "completeProvider": true,
+            "methods": ["POST"]
         }
     }
 }
