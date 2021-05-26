@@ -314,7 +314,7 @@
             "completeProvider": true
         },
         "nr-data.net": {
-            "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*nr-data\\.net\\/events\\/",
+            "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*nr-data\\.net\\/(events|jserrors)\\/",
             "completeProvider": true
         },
         "surveymonkey.com": {
