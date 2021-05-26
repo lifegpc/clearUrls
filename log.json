@@ -312,6 +312,10 @@
         "reddit.com_1": {
             "urlPattern": "^https?:\\/\\/(www\\.)?reddit\\.com\\/(counters\\/client-screenview|timings\\/mount)",
             "completeProvider": true
+        },
+        "nr-data.net": {
+            "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*nr-data\\.net\\/events\\/",
+            "completeProvider": true
         }
     }
 }
