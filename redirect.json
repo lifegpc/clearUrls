@@ -29,6 +29,12 @@
             "redirections": [
                 "^https?:\\/\\/(?:[a-z0-9-]+\\.)*jianshu\\.com\\/go\\-wild\\?.*?url\\=([^&]+)&?.*"
             ]
+        },
+        "twitter.com": {
+            "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*twitter.com\\i\\redirect",
+            "redirections": [
+                "^https?:\\/\\/([a-z0-9-]+\\.)*twitter.com\\i\\redirect\\?.*?url\\=([^&]+)&?.*"
+            ]
         }
     }
 }
