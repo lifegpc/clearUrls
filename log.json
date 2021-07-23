@@ -146,6 +146,7 @@
         },
         "google.com": {
             "urlPattern": "^https?:\\/\\/(www\\.)?google(?:\\.[a-z0-9-]+)*\\/log",
+            "exceptions": ["^https?:\\/\\/(www\\.)?google(?:\\.[a-z0-9-]+)*\\/logos\\/"],
             "completeProvider": true
         },
         "translate.google.com": {
