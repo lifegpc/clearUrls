@@ -323,7 +323,7 @@
             "completeProvider": true
         },
         "netflix.com": {
-            "urlPattern": "^https?:\\/\\/(www\\.)?netflix\\.com\\/personalization\\/cl2",
+            "urlPattern": "^https?:\\/\\/(www\\.)?netflix\\.com\\/personalization\\/(cl2|log)",
             "completeProvider": true
         }
     }
