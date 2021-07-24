@@ -321,6 +321,10 @@
         "surveymonkey.com": {
             "urlPattern": "^https?:\\/\\/csp\\.surveymonkey\\.com\\/report",
             "completeProvider": true
+        },
+        "netflix.com": {
+            "urlPattern": "^https?:\\/\\/(www\\.)?netflix\\.com\\/personalization\\/cl2",
+            "completeProvider": true
         }
     }
 }
