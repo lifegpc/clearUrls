@@ -329,6 +329,10 @@
         "archive.org": {
             "urlPattern": "^https?:\\/\\/analytics\\.archive\\.org\\/",
             "completeProvider": true
+        },
+        "google.com_2": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?google(?:\\.[a-z0-9-]+)*\\/velog\\/",
+            "completeProvider": true
         }
     }
 }
