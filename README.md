@@ -23,3 +23,7 @@ This type of rules remove unnecessary get parameter which used to track user.
 [![Custom Rules Number (Types: redirect, Include Offical Rules)](https://cs.kanahanazawa.com/clearUrl?bagel&t=redirect&fuckinggithubcache)](https://cs.kanahanazawa.com/clearUrl?t=redirect)
 [![Custom Rules Number (Types: redirect)](https://cs.kanahanazawa.com/clearUrl?bagel&t=redirect&noda&fuckinggithubcache)](https://cs.kanahanazawa.com/clearUrl?t=redirect&noda)  
 This type of rules can skip unnecessary redirect page.
+## makeding
+[![Custom Rules Number (Types: makeding, Include Offical Rules)](https://cs.kanahanazawa.com/clearUrl?bagel&t=makeding)](https://cs.kanahanazawa.com/clearUrl?t=makeding)
+[![Custom Rules Number (Types: makeding)](https://cs.kanahanazawa.com/clearUrl?bagel&t=makeding&noda)](https://cs.kanahanazawa.com/clearUrl?t=makeding&noda)  
+This type of rules block websites of 马克丁. See more info [here](https://www.zhihu.com/question/46746200).
