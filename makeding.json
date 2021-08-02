@@ -1,0 +1,132 @@
+{
+    "providers": {
+        "makeding.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*makeding\\.com\\/",
+            "completeProvider": true
+        },
+        "xmindchina": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*xmindchina\\.(net|cn)\\/",
+            "completeProvider": true
+        },
+        "ntfsformac": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*ntfsformac\\.(cc|cn)\\/",
+            "completeProvider": true
+        },
+        "bingdianhuanyuan.cn": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*bingdianhuanyuan\\.cn\\/",
+            "completeProvider": true
+        },
+        "huishenghuiying.com.cn": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*huishenghuiying\\.com\\.cn\\/",
+            "completeProvider": true
+        },
+        "coreldrawchina.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*coreldrawchina\\.com\\/",
+            "completeProvider": true
+        },
+        "shankejingling.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*shankejingling\\.com\\/",
+            "completeProvider": true
+        },
+        "mairuan": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*mairuan(wang)?\\.(com|cn|net|com\\.cn)\\/",
+            "completeProvider": true
+        },
+        "logoshejishi.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*logoshejishi\\.com\\/",
+            "completeProvider": true
+        },
+        "keyshot.cc": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*keyshot\\.cc\\/",
+            "completeProvider": true
+        },
+        "flstudiochina.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*flstudiochina\\.com\\/",
+            "completeProvider": true
+        },
+        "ediuschina.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*ediuschina\\.com\\/",
+            "completeProvider": true
+        },
+        "vegaschina.cn": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*vegaschina\\.cn\\/",
+            "completeProvider": true
+        },
+        "guitarpro.cc": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*guitarpro\\.cc\\/",
+            "completeProvider": true
+        },
+        "mindmanager.cc": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*mindmanager\\.cc\\/",
+            "completeProvider": true
+        },
+        "kingdeecn.cn": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*kingdeecn\\.cn\\/",
+            "completeProvider": true
+        },
+        "xshellcn.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*xshellcn\\.com\\/",
+            "completeProvider": true
+        },
+        "imindmap.cc": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*imindmap\\.cc\\/",
+            "completeProvider": true
+        },
+        "abbyychina.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*abbyychina\\.com\\/",
+            "completeProvider": true
+        },
+        "bartender.cc": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*bartender\\.cc\\/",
+            "completeProvider": true
+        },
+        "jihehuaban.com.cn": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*jihehuaban\\.com\\.cn\\/",
+            "completeProvider": true
+        },
+        "mathtype.cn": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*mathtype\\.cn\\/",
+            "completeProvider": true
+        },
+        "chemdraw.com.cn": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*chemdraw\\.com\\.cn\\/",
+            "completeProvider": true
+        },
+        "mycleanmymac.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*mycleanmymac\\.com\\/",
+            "completeProvider": true
+        },
+        "parallelsdesktop.cn": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*parallelsdesktop\\.cn\\/",
+            "completeProvider": true
+        },
+        "beyondcompare.cc": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*beyondcompare\\.cc\\/",
+            "completeProvider": true
+        },
+        "easyrecoverychina.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*easyrecoverychina\\.com\\/",
+            "completeProvider": true
+        },
+        "iconworkshop.cn": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*iconworkshop\\.cn\\/",
+            "completeProvider": true
+        },
+        "pdfexpert.cc": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*pdfexpert\\.cc\\/",
+            "completeProvider": true
+        },
+        "zhzzx.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*zhzzx\\.com\\/",
+            "completeProvider": true
+        },
+        "yihuifu.cn": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*yihuifu\\.cn\\/",
+            "completeProvider": true
+        },
+        "4009997658.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*4009997658\\.com\\/",
+            "completeProvider": true
+        }
+    }
+}
