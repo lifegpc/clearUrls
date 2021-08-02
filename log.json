@@ -325,6 +325,10 @@
         "netflix.com": {
             "urlPattern": "^https?:\\/\\/(www\\.)?netflix\\.com\\/personalization\\/(cl2|log)",
             "completeProvider": true
+        },
+        "archive.org": {
+            "urlPattern": "^https?:\\/\\/analytics\\.archive\\.org\\/",
+            "completeProvider": true
         }
     }
 }
