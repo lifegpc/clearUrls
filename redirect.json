@@ -35,6 +35,12 @@
             "redirections": [
                 "^https?:\\/\\/(?:[a-z0-9-]+\\.)*twitter.com\\/i\\/redirect\\?.*?url\\=([^&]+)&?.*"
             ]
+        },
+        "gyao.yahoo.co.jp": {
+            "urlPattern": "^https?:\\/\\/gyao\\.yahoo\\.co\\.jp\\/toapp",
+            "redirections": [
+                "^https?:\\/\\/gyao\\.yahoo\\.co\\.jp\\/toapp\\?.*?url\\=([^&]+)&?.*"
+            ]
         }
     }
 }
