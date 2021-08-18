@@ -333,6 +333,10 @@
         "google.com_2": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?google(?:\\.[a-z0-9-]+)*\\/velog\\/",
             "completeProvider": true
+        },
+        "bilibili.com_1": {
+            "urlPattern": "^https?:\\/\\/api\\.bilibili\\.com\\/x\\/web-frontend\\/data\\/collector",
+            "completeProvider": true
         }
     }
 }
