@@ -337,6 +337,10 @@
         "bilibili.com_1": {
             "urlPattern": "^https?:\\/\\/api\\.bilibili\\.com\\/x\\/web-frontend\\/data\\/collector",
             "completeProvider": true
+        },
+        "zhuhuishu.com": {
+            "urlPattern": "^https?:\\/\\/collector\\.zhihuishu\\.com\\/video\\/web\\/collect",
+            "completeProvider": true
         }
     }
 }
