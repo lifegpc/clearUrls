@@ -349,6 +349,10 @@
         "aegis.qq.com": {
             "urlPattern": "^https?:\\/\\/aegis\\.qq\\.com\\/aegis\\/whitelist",
             "completeProvider": true
+        },
+        "map.qq.com": {
+            "urlPattern": "^https?:\\/\\/pr\\.map\\.qq\\.com\\/pingd",
+            "completeProvider": true
         }
     }
 }
