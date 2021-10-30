@@ -341,6 +341,10 @@
         "zhuhuishu.com": {
             "urlPattern": "^https?:\\/\\/collector\\.zhihuishu\\.com\\/video\\/web\\/collect",
             "completeProvider": true
+        },
+        "ems.com.cn": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?ems\\.com\\.cn\\/ems-web\\/userTrafficStatistics\\/",
+            "completeProvider": true
         }
     }
 }
