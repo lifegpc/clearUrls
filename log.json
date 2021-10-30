@@ -345,6 +345,10 @@
         "ems.com.cn": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?ems\\.com\\.cn\\/ems-web\\/userTrafficStatistics\\/",
             "completeProvider": true
+        },
+        "aegis.qq.com": {
+            "urlPattern": "^https?:\\/\\/aegis\\.qq\\.com\\/aegis\\/whitelist",
+            "completeProvider": true
         }
     }
 }
