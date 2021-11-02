@@ -353,6 +353,10 @@
         "map.qq.com": {
             "urlPattern": "^https?:\\/\\/pr\\.map\\.qq\\.com\\/pingd",
             "completeProvider": true
+        },
+        "www.google-analytics.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?google-analytics\\.com\\/",
+            "completeProvider": true
         }
     }
 }
