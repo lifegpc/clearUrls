@@ -41,6 +41,12 @@
             "redirections": [
                 "^https?:\\/\\/gyao\\.yahoo\\.co\\.jp\\/toapp\\?.*?url\\=([^&]+)&?.*"
             ]
+        },
+        "gamer.com.tw": {
+            "urlPattern": "^https?:\\/\\/ref\\.gamer\\.com\\.tw\\/redir\\.php",
+            "redirections": [
+                "^https?:\\/\\/ref\\.gamer\\.com\\.tw\\/redir\\.php\\?.*?url\\=([^&]+)&?.*"
+            ]
         }
     }
 }
