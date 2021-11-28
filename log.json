@@ -357,6 +357,10 @@
         "www.google-analytics.com": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?google-analytics\\.com\\/",
             "completeProvider": true
+        },
+        "cnzz.com": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?cnzz\\.com",
+            "completeProvider": true
         }
     }
 }
