@@ -361,6 +361,10 @@
         "cnzz.com": {
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?cnzz\\.com",
             "completeProvider": true
+        },
+        "zhihuishu.com": {
+            "urlPattern": "^https?:\\/\\/log\\.urtc\\.com\\.cn\\/api\\/rtcClinetLog",
+            "completeProvider": true
         }
     }
 }
