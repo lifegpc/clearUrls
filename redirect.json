@@ -47,6 +47,12 @@
             "redirections": [
                 "^https?:\\/\\/ref\\.gamer\\.com\\.tw\\/redir\\.php\\?.*?url\\=([^&]+)&?.*"
             ]
+        },
+        "pixiv.net": {
+            "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*pixiv.net\\/jump.php",
+            "redirections": [
+                "^https?:\\/\\/(?:[a-z0-9-]+\\.)*pixiv.net\\/jump.php\\?(.*)"
+            ]
         }
     }
 }
