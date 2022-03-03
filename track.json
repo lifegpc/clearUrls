@@ -81,6 +81,10 @@
         "ixigua.com": {
             "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*ixigua\\.com\\/",
             "rules": ["_signature", "logtag"]
+        },
+        "3rxing.org": {
+            "urlPattern": "^https?:\\/\\/(www\\.)?3rxing\\.org\\/question\\/[0-9a-z]+\\.html",
+            "rules": ["from"]
         }
     }
 }
