@@ -365,6 +365,10 @@
         "zhihuishu.com": {
             "urlPattern": "^https?:\\/\\/log\\.urtc\\.com\\.cn\\/api\\/rtcClinetLog",
             "completeProvider": true
+        },
+        "ip.zuciwang.com": {
+            "urlPattern": "^https?:\\/\\/ip\\.zuciwang\\.com\\/",
+            "completeProvider": true
         }
     }
 }
