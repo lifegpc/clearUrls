@@ -85,6 +85,10 @@
         "3rxing.org": {
             "urlPattern": "^https?:\\/\\/(www\\.)?3rxing\\.org\\/question\\/[0-9a-z]+\\.html",
             "rules": ["from"]
+        },
+        "coolapk.com": {
+            "urlPattern": "^https?:\\/\\/(www\\.)?coolapk\\.com\\/",
+            "rules": ["share.*"]
         }
     }
 }
