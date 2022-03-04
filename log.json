@@ -369,6 +369,10 @@
         "ip.zuciwang.com": {
             "urlPattern": "^https?:\\/\\/ip\\.zuciwang\\.com\\/",
             "completeProvider": true
+        },
+        "pay.google.com": {
+            "urlPattern": "^https?:\\/\\/pay\\.google\\.com\\/.*\\/jserror(\\?.*)?$",
+            "completeProvider": true
         }
     }
 }
