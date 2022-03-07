@@ -93,6 +93,10 @@
         "twitter.com": {
             "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*twitter\\.com\\/[^/]+\\/status\\/\\d+",
             "rules": ["t", "s"]
+        },
+        "edu.cn": {
+            "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*edu\\.cn\\",
+            "rules": ["gid_", "amp_sec_version_"]
         }
     }
 }
