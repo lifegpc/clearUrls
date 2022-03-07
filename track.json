@@ -89,6 +89,10 @@
         "coolapk.com": {
             "urlPattern": "^https?:\\/\\/(www\\.)?coolapk\\.com\\/",
             "rules": ["share.*"]
+        },
+        "twitter.com": {
+            "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*twitter\\.com\\/[^/]+\\/status\\/\\d+",
+            "rules": ["t", "s"]
         }
     }
 }
