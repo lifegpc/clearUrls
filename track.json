@@ -94,9 +94,9 @@
             "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*twitter\\.com\\/[^/]+\\/status\\/\\d+",
             "rules": ["t", "s"]
         },
-        "edu.cn": {
-            "urlPattern": "^https?:\\/\\/([a-z0-9-]+\\.)*edu\\.cn\\/",
-            "rules": ["amp_sec_version_"]
+        "ireader.com.cn": {
+            "urlPattern": "^https?:\\/\\/(www\\.)?ireader\\.com\\.cn",
+            "rules": ["pca"]
         }
     }
 }
