@@ -373,6 +373,10 @@
         "pay.google.com": {
             "urlPattern": "^https?:\\/\\/pay\\.google\\.com\\/.*\\/jserror(\\?.*)?$",
             "completeProvider": true
+        },
+        "zongheng.com": {
+            "urlPattern": "^https?:\\/\\/(h5)?log\\.zongheng\\.com\\/",
+            "completeProvider": true
         }
     }
 }
