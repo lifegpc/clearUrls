@@ -97,6 +97,10 @@
         "ireader.com.cn": {
             "urlPattern": "^https?:\\/\\/(www\\.)?ireader\\.com\\.cn",
             "rules": ["pca"]
+        },
+        "google.com_2": {
+            "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?google(?:\\.[a-z]{2,}){1,}\\/complete\\/search",
+            "rules": ["psi", "ofp"]
         }
     }
 }
