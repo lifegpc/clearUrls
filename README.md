@@ -27,3 +27,6 @@ This type of rules can skip unnecessary redirect page.
 [![Custom Rules Number (Types: makeding, Include Offical Rules)](https://cs.kanahanazawa.com/clearUrl?bagel&t=makeding)](https://cs.kanahanazawa.com/clearUrl?t=makeding)
 [![Custom Rules Number (Types: makeding)](https://cs.kanahanazawa.com/clearUrl?bagel&t=makeding&noda)](https://cs.kanahanazawa.com/clearUrl?t=makeding&noda)  
 This type of rules block websites of 马克丁. See more info [here](https://www.zhihu.com/question/46746200).
+
+# Note
+If you think rules break some website's feature. Please test it without offical rules and open an issue. (Offical rules will break some website's feature.)
